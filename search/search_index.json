@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to Cloud Technology notes.","text":""},{"location":"#list-of-contents","title":"List of contents:","text":"<ol> <li>Amazon Web Services</li> <li>Google Cloud Platform</li> <li>Microsoft Azure</li> </ol>"}]}
