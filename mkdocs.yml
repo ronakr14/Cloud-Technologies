@@ -33,7 +33,7 @@ plugins:
 nav:
   - Cloud Technology: index.md
   - Notes Homepage: https://ronakr14.github.io/Collectives/
-  - AWS: https://ronakr14.github.io/Amazon-Web-Services/
+  - AWS: https://ronakr14.github.io/Amazon-Web-Service/
   - GCP: https://ronakr14.github.io/Google-Cloud-Platform/
   - Azure: https://ronakr14.github.io/Microsoft-Azure/
 
